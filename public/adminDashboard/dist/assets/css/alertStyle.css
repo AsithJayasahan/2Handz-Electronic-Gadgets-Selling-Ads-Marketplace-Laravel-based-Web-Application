@@ -1,0 +1,68 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.alert__container {
+    margin: 0 auto;
+
+    padding: 1rem;
+
+}
+
+.alert__container .spacer {
+    margin-bottom: 1rem;
+}
+
+.alert__container .alert {
+    padding: 0.5rem;
+    color: black;
+}
+
+.alert__container .alert__icon {
+    margin: 0 1rem;
+
+}
+
+.alert__container .alert__text {
+    display: inline-block;
+    font-size: 1.005rem;
+}
+
+.alert__container .alert__close {
+    float: right;
+    padding: 0.2rem 0.55rem;
+    color: black;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.alert__container .alert__close span {
+    font-size: 1rem;
+}
+
+.alert__container .alert__primary {
+    background-color: #ccf2ff;
+}
+
+.alert__container .alert__secondary {
+    background-color: #e2e3e3;
+}
+
+.alert__container .alert__warning {
+    background-color: #ff9;
+}
+
+.alert__container .alert__error {
+    background-color: #ffb3b3;
+}
+
+.alert__container .alert__success {
+    background-color: #d6f5d6;
+}
+
+.closed {
+    display: none;
+}
