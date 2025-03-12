@@ -6,7 +6,7 @@
 
 ### User Features:
 - **Sign Up & Sign In** – Users can create an account and log in securely.
-- **Chatbot Support** – AI-powered chatbot to assist users with queries.
+- **Chatbot Support** – chatbot to assist users with queries.
 - **Post Ads** – Users can create ads for their second-hand tech items.
 - **View Ads** – Users can browse all available ads.
 - **Filter Ads** – Search and filter ads based on categories.
@@ -36,7 +36,7 @@
    ```
 4. **Generate application key**
    ```sh
-   php artisan key:generate
+   php artisan key: generate
    ```
 5. **Migrate the database**
    ```sh
