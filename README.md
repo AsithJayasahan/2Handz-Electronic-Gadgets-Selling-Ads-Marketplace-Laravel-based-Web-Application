@@ -22,7 +22,7 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/2Handz-Marketplace.git
+   git clone https://github.com/AsithJayasahan/2Handz-Marketplace.git
    cd 2Handz
    ```
 2. **Install dependencies** (if using Laravel):
@@ -53,9 +53,4 @@
 - BotMan (Chatbot Integration)
 - Blade (Frontend Template Engine)
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any inquiries, visit our **[Contact Us](#)** page or email us at support@2handz.com.
 
