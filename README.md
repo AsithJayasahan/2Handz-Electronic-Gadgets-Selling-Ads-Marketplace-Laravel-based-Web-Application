@@ -22,7 +22,7 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/2Handz.git
+   git clone https://github.com/yourusername/2Handz-Marketplace.git
    cd 2Handz
    ```
 2. **Install dependencies** (if using Laravel):
