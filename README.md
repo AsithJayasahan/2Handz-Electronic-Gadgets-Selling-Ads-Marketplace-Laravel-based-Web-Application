@@ -1,6 +1,6 @@
 # 2Handz Electronic Gadgets Selling Ads Marketplace
 
-**2Handz** is an online platform for buying and selling second-hand tech accessories, including laptops, computers, smartphones, and other gadgets. Users can register, post free ads, and filter listings to find what they need.
+**2Handz** is an online platform for buying and selling brand new and used tech accessories, including laptops, computers, smartphones, and other gadgets. Users can register, post free ads, and filter listings to find what they need.
 
 ## Features
 
