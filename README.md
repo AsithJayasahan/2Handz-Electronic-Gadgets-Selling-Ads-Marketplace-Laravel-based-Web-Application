@@ -27,33 +27,38 @@ This platform is designed for smooth peer-to-peer connections and **does not han
 
 ## ⚙️ Installation & Setup
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/AsithJayasahan/2Handz-Marketplace.git
-   cd 2Handz-Marketplace
-   ```
+### 📥 Clone the Repository
 
-2. **Install Laravel dependencies**
-   ```bash
-   composer install
-   npm install && npm run dev
-   ```
+```bash
+git clone https://github.com/AsithJayasahan/2Handz-Marketplace.git
+cd 2Handz-Marketplace
+```
 
-3. **Configure environment variables**
-   ```bash
-   cp .env.example .env
-   php artisan key:generate
-   ```
+### 📦 Install Laravel Dependencies
 
-4. **Set up the database**
-   ```bash
-   php artisan migrate
-   ```
+```bash
+composer install
+npm install && npm run dev
+```
 
-5. **Run the development server**
-   ```bash
-   php artisan serve
-   ```
+### ⚙️ Configure Environment
+
+```bash
+cp .env.example .env
+php artisan key:generate
+```
+
+### 🗃️ Set Up the Database
+
+```bash
+php artisan migrate
+```
+
+### ▶️ Run the Application
+
+```bash
+php artisan serve
+```
 
 ---
 
@@ -85,7 +90,7 @@ This platform is designed for smooth peer-to-peer connections and **does not han
 
 ## 📂 Repository
 
-👉 [GitHub Repository](https://github.com/AsithJayasahan/2Handz-Marketplace)
+👉 GitHub: [https://github.com/AsithJayasahan/2Handz-Marketplace](https://github.com/AsithJayasahan/2Handz-Marketplace)
 
 ---
 
