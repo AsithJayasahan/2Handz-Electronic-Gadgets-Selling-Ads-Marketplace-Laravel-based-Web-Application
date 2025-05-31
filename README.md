@@ -1,59 +1,95 @@
-# 2Handz Electronic Gadgets Selling Ads Marketplace
 
-**2Handz** is an online platform for buying and selling brand new and used tech accessories, including laptops, computers, smartphones, and other gadgets. Users can register, post free ads, and filter listings to find what they need.
+# 📱 2Handz – Tech Accessories Advertisement Platform (Laravel-Based)
 
-## Features
+**2Handz** is a user-friendly **online advertisement platform** built with Laravel that allows individuals to **publish, browse, and manage ads** for buying and selling **brand new and second-hand tech accessories** like laptops, smartphones, and other gadgets.
 
-### User Features:
-- **Sign Up & Sign In** – Users can create an account and log in securely.
-- **Chatbot Support** – chatbot to assist users with queries.
-- **Post Ads** – Users can create ads for their second-hand tech items.
-- **View Ads** – Users can browse all available ads.
-- **Filter Ads** – Search and filter ads based on categories.
-- **Edit Profile** – Users can update their credentials.
-- **Send Messages** – Users can communicate with sellers or buyers.
+This platform is designed for smooth peer-to-peer connections and **does not handle direct transactions**, focusing purely on **classified ad listings**.
 
-### Admin Panel:
-- **Manage Ads** – Admins can post, edit, and delete ads.
-- **Manage Users** – View all registered users and their activities.
-- **Dashboard Statistics** – Get a count of total ads and users.
+---
 
-## Installation & Setup
+## ✨ Key Features
+
+### 👤 User-Side Functionality
+- 🔐 **Secure Authentication** – Sign up and log in safely
+- 📢 **Post Ads** – Create ads for gadgets with images and details
+- 👀 **Ad Browsing** – Explore posted tech items in a neat interface
+- 🔎 **Smart Filtering** – Find listings by category and location
+- 🤖 **Integrated Chatbot** – Botman chatbot for quick user support
+- 📝 **Edit Profile** – Update personal info securely
+- 💬 **Send Messages** – Contact ad owners directly
+
+### 🛠️ Admin Panel
+- 📋 **Manage Ads** – Edit, delete, and moderate user ads
+- 👥 **Manage Users** – View and control registered users
+- 📊 **Dashboard Stats** – Overview of total users and posted ads
+
+---
+
+## ⚙️ Installation & Setup
 
 1. **Clone the repository**
-   ```sh
+   ```bash
    git clone https://github.com/AsithJayasahan/2Handz-Marketplace.git
-   cd 2Handz
+   cd 2Handz-Marketplace
    ```
-2. **Install dependencies** (if using Laravel):
-   ```sh
+
+2. **Install Laravel dependencies**
+   ```bash
    composer install
-   npm install
+   npm install && npm run dev
    ```
-3. **Set up environment file**
-   ```sh
+
+3. **Configure environment variables**
+   ```bash
    cp .env.example .env
+   php artisan key:generate
    ```
-4. **Generate application key**
-   ```sh
-   php artisan key: generate
-   ```
-5. **Migrate the database**
-   ```sh
+
+4. **Set up the database**
+   ```bash
    php artisan migrate
    ```
-6. **Start the server**
-   ```sh
+
+5. **Run the development server**
+   ```bash
    php artisan serve
    ```
 
-## Technologies Used
-- Laravel (Backend Framework)
-- MySQL (Database)
-- BotMan (Chatbot Integration)
-- Blade (Frontend Template Engine)
+---
 
-  ## Preview the Project
+## 🧰 Technologies Used
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/uiW79yKqJZc/mq1.webp?sqp=COCmxr4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKyghMA8=&rs=AOn4CLBesv35JsG1wmV8ik0zcDQ9KpOvRQ)](https://youtu.be/uiW79yKqJZc?si=9thYoFp-XZO-ARs6)
+- **Laravel 10** – PHP MVC Framework  
+- **Blade** – Laravel Templating Engine  
+- **MySQL** – Relational Database  
+- **BotMan** – Chatbot Integration  
+- **Bootstrap + Tailwind CSS** – Responsive UI  
+- **Laravel Breeze** – Lightweight Auth Scaffolding  
 
+---
+
+## 📽️ Preview the Project
+
+[![Watch the Demo](https://i9.ytimg.com/vi_webp/uiW79yKqJZc/mq1.webp?sqp=COCmxr4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKyghMA8=&rs=AOn4CLBesv35JsG1wmV8ik0zcDQ9KpOvRQ)](https://youtu.be/uiW79yKqJZc?si=9thYoFp-XZO-ARs6)
+
+---
+
+## 📌 Project Highlights
+
+- Built with a strong focus on **usability and clean UI**
+- Enables **free ad posting** and tech ad discovery
+- Supports **basic messaging features**
+- Suitable for **local communities** or **second-hand gadget listings**
+
+---
+
+## 📂 Repository
+
+👉 [GitHub Repository](https://github.com/AsithJayasahan/2Handz-Marketplace)
+
+---
+
+## 🙌 Contributions & Feedback
+
+Feel free to open issues, submit PRs, or give feedback!  
+Let’s make this project even better. ✨
