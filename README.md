@@ -77,7 +77,7 @@ php artisan serve
 
 [![Watch the Demo](https://i9.ytimg.com/vi_webp/uiW79yKqJZc/mq1.webp?sqp=COCmxr4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKyghMA8=&rs=AOn4CLBesv35JsG1wmV8ik0zcDQ9KpOvRQ)](https://youtu.be/uiW79yKqJZc?si=9thYoFp-XZO-ARs6)
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](2Handz.mkv)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://youtu.be/uiW79yKqJZc)
 
 ---
 
