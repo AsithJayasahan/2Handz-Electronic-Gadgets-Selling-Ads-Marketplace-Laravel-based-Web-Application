@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/54a63482-4b92-433a-8e57-f9efb4dbf533
+
 # 📱 2Handz – Tech Accessories Advertisement Platform (Laravel-Based)
 
 **2Handz** is a user-friendly **online advertisement platform** built with Laravel that allows individuals to **publish, browse, and manage ads** for buying and selling **brand new and second-hand tech accessories** like laptops, smartphones, and other gadgets.
@@ -75,7 +77,8 @@ php artisan serve
 
 ## 📽️ Preview the Project
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://youtu.be/uiW79yKqJZc)
+https://github.com/user-attachments/assets/000a7c04-c961-4d27-8efc-ca74bfd9ec51
+
 
 ---
 
